@@ -1,0 +1,33 @@
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 2px dotted rgb(255, 255, 255);
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+	color:rgb(255, 255, 255);
+	line-height:200%;
+	font-size:20px;
+}
+li{
+	list-style-type:none;
+}
+h1{
+	color:rgb(214, 252, 252);
+	font-size:80px;
+	font-family: "华文行楷";
+}
+h2{
+	font-family:华文行楷;
+	font-size:40px;
+	color:rgb(220, 252, 252);
+}
+h3{
+	font-family: 楷体;
+	font-size:30px;
+	color:rgb(204, 242, 247);
+}
+p{
+	font-family: 楷体;
+	color:white;
+	font-size:17px;
+}
